@@ -17,13 +17,13 @@ emlékeztető:
 Kis kitekintő a jobbra-balra fordulásokhoz, konvexitáshoz, háromszögben való tartalmazáshoz: Geometriai algoritmusok kulcsfogalma: Fordul innen: http://tehetseg.inf.elte.hu/szakkorefop2017/pdf/elteikszakkor_geometria_20181101.pdf
 
 
-# import (tsv)
+# Import (tsv)
 Készíts adatbázist a P.txt tabulátorokkal tagolt szöveges állomány alapján!
 
 Válaszolj a következő kérdésekre!
 
-# export (LaTeX + TikZ, online: Overleaf)
-0. Készíts lekérdezést, amely segítségedre van ahhoz, hogy a pontokat áttekintsd! Ehhez az overleaf online LaTeX-szerkesztő TikZ csomagját fogjuk használni. (Mert az a legszebb.)
+# Export (LaTeX + TikZ, online: Overleaf)
+0. Készíts lekérdezést, amely segítségedre van ahhoz, hogy a pontokat áttekintsd! Ehhez van a git-repoban egy main.tex, amit lefuttatva egy LaTeX Compilerrel ki is jön a dolog, ha az export egy pontok.tex fájl ugyanabban a könyvtárban. De inkább irány az overleaf online tex-szerkesztő!
 
 Ez alapján az 1.(-243;279) pontot -- az adott környezen belül -- a következő kóddal lehet elhelyezni:
 
@@ -32,8 +32,6 @@ Ez alapján az 1.(-243;279) pontot -- az adott környezen belül -- a következ�
 ```
 
 Készíts ilyen exportot, hogy rá lehessen nézni a kódra!
-
-
 
 # Szűrések
 1. Add meg az első síknegyedbe eső pontokat!
