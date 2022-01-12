@@ -28,7 +28,7 @@ Válaszolj a következő kérdésekre!
 Ez alapján az 1.(-243;279) pontot -- az adott környezen belül -- a következő kóddal lehet elhelyezni:
 
 ```latex
-\node[circle, fill=black, inner sep=.1mm] at (-243;279){1};
+\node[potty] at (-243,279){};
 ```
 
 Készíts ilyen exportot, hogy rá lehessen nézni a kódra!
@@ -51,10 +51,10 @@ Készíts ilyen exportot, hogy rá lehessen nézni a kódra!
 0. Mely pont esik a legközelebb a -45 fok irányszögű origón átmenő egyeneshez?
 
 # Pontpárok
-1. Melyek azok a pontpárok, amelyek egymás fölött helyezkednek el?
-0. Melyek azok a pontpárok, amelyek egymás mellett helyezkednek el?
+1. Melyek azok a pontpárok, amelyek egymás fölött helyezkednek el? (Függőleges szakasz köti össze őket)
+0. Melyek azok a pontpárok, amelyek egymás mellett helyezkednek el? (Vízszintes szakasz köti össze őket)
 0. Van-e olyan pontpár, amelyek egymásra esnek?
-0. Sorold fel azon pontokat, amelyek egymás tükörképei
+0. Sorold fel azon pontokat, amelyek egymás origóra való tükörképei 
 0. Sorold fel azon pontokat, amelyek egymás x tengelyre vonatkozó tükörképei
 0. Sorold fel azon pontokat, amelyek egymás y tengelyre vonatkozó tükörképei
 0. Melyik a két egymástól legtávolabb eső pont?
