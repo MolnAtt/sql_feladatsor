@@ -61,7 +61,7 @@ Készíts ilyen exportot, hogy rá lehessen nézni a kódra!
 0. Melyik a két egymáshoz legközelebb eső pont?
 
 # Ponthármasok
-1. Sorold fel azon különböző ponthármasokat, amelyek közül a középső a két szélő között van (inklúzívan értendő)! A relációt nevezd B-nek (Alfred Tarski Between-relációja)
+1. Sorold fel azon különböző ponthármasokat, amelyek közül a középső a két szélső között van (inklúzívan értendő)! A relációt nevezd B-nek (Alfred Tarski Between-relációja)
 0. Hány olyan ponthármas van, amelyekre igaz, hogy az egyik a másik körül 90 fokkal elforgatva a harmadikba esik?
 0. Sorold fel azon különböző ponthármasokat, amelyre igaz, hogy az elsőből a másodikba menet a harmadik fele fordulás balra történik!
 0. Sorold fel azon különböző ponthármasokat, amelyre igaz, hogy az elsőből a másodikba menet a harmadik fele fordulás jobbra történik!
