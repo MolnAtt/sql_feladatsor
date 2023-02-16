@@ -52,7 +52,7 @@ Ne feledd, hogy az sql-kódot nem "írni", hanem "bővítgetni" kell!
 ## Definíciók:
 
 ### Lánya:
-1. Add meg az "x Lánya y" relációt!
+1. Add meg az "x lánya y" relációt!
 2. Az U segítségével szerepeltesd az emberek neveit is az előbbi tábla alapján!
 
 ### Apja:
@@ -63,28 +63,25 @@ Ne feledd, hogy az sql-kódot nem "írni", hanem "bővítgetni" kell!
 5. Hozd létre az Nagyszülő-unoka relációt! (Kinek ki az unokája?)
 6. Az U segítségével szerepeltesd a nagyszülők és unokák neveit is az előbbi tábla alapján!
 
-### Pár:
-7. Nevezzük párnak azon emberpárokat, amelyeknek van közös gyermekük. Add meg a Pár relációt!
+### Házaspár:
+7. Házaspárnak tekintjük azokat, akiknek van közös gyermekük. Add meg a Házaspár relációt!
 8. Az U segítségével szerepeltesd a párok neveit az előbbi tábla alapján!
 
 ### Testvér:
 9. Hozd létre az Testvér relációt! Ügyelj arra, hogy senki sem testvére önmagának!
 10. Az U segítségével szerepeltesd a Testvérpárok neveit is az előbbi tábla alapján!
 
-### Testvér:
-11. Hozd létre a húg relációt!
+### Lánytestvér:
+11. Hozd létre a Lánytestvér relációt!
 12. Az U segítségével szerepeltesd a párok neveit is az előbbi tábla alapján!
 
 ### Fiús anyuka:
 13. Hozd létre a "fiús anyuka" relációt! Azt mondjuk, hogy egy anya fiús anyuka, ha minden gyermeke fiú.
 14. Az U segítségével szerepeltesd a párok neveit is az előbbi tábla alapján!
 
-
 ## Unokatestvér
-7. Hozd létre az unokatestvér relációt! Ügyelj arra, hogy senki sem unokatestvére önmagának, sőt, a testvérek sem unokatestvérek!
-8. Az U segítségével szerepeltesd a neveket is az előbbi tábla alapján!
-
-
+15. Hozd létre az unokatestvér relációt! Ügyelj arra, hogy senki sem unokatestvére önmagának, sőt, a testvérek sem unokatestvérek!
+16. Az U segítségével szerepeltesd a neveket is az előbbi tábla alapján!
 
 ## Negáció:
 1. Kik nem gyermekei senkinek sem? (Kik a családfák gyökerei?)
